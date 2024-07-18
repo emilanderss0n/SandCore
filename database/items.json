@@ -1,0 +1,1100 @@
+{
+    "SC_01001_AVALANCHE": {
+        "clone": "5f633ff5c444ce7e3c30a006",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/charges/charge_ar15_rainer_arms_avalanche_mod2_white.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f751486f77447ec5d770c",
+            "Price": 7474
+        },
+        "locales": {
+            "Name": "AR-15 Rainier Arms Avalanche MOD2 charging handle (Sand)",
+            "Shortname": "MOD2 Sand",
+            "Description": "Avalanche Mod.2 charging handle for AR-15 and compatible systems. Manufactured by Rainer Arms. Modded Sand."
+        }
+    },
+    "SC_01003_F1FIREARMS": {
+        "clone": "6113cc78d3a39d50044c065a",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/pistol grips/pistolgrip_ar15_f1_firearms_st2_pc_skeletonized_white.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f761f86f774094242f1a1",
+            "Price": 15500
+        },
+        "locales": {
+            "Name": "AR-15 F1 Firearms Skeletonized Style 2 PC pistol grip (Sand)",
+            "Shortname": "F1 Sand",
+            "Description": "A lightweight ergonomical pistol grip with finger grooves for AR-15 weapon systems, manufactured by F1 Firearms. Wrapped with paracord for maximum comfort and minimum hand slip. Modded Sand."
+        }
+    },
+    "SC_01004_NOVESKE_AR_REC": {
+        "clone": "5c07a8770db8340023300450",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/recievers/reciever_ar15_noveske_gen3_white.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f764186f77447ec5d7714",
+            "Price": 25150
+        },
+        "locales": {
+            "Name": "AR-15 Noveske Gen.3 5.56x45 upper receiver (Sand)",
+            "Shortname": "NOV Sand",
+            "Description": "The Gen.3 modular upper receiver for AR-based weapons, manufactured by Noveske. Fitted with mounts for attaching additional equipment. Modded Sand."
+        },
+        "scCompatibilities": {
+            "mod_handguard": [
+                "SC_01018_AR_KAC_RIS",
+                "SC_01020_AR_KAC_URX_8",
+                "SC_01022_AR_KAC_URX_10"
+            ],
+            "mod_barrel": [
+                "SC_01025_AR_15_260_BARREL",
+                "SC_01026_AR_15_370_BARREL"
+            ],
+            "mod_scope": [
+                "SC_01036_T1M_MOUNT",
+                "SC_01042_VORTEX_RAZOR_UH1"
+            ]
+        }
+    },
+    "SC_01006_M4SD_K": {
+        "clone": "638612b607dfed1ccb7206ba",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/silencers/silencer_sdqd_griffin_m4sd_k_silencer_556x45_white.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f731a86f774093e6cb4f9",
+            "Price": 77000
+        },
+        "locales": {
+            "Name": "AR-15 Griffin Armament M4SD-K 5.56x45 sound suppressor (Sand)",
+            "Shortname": "M4SDK Sand",
+            "Description": "The M4SD-K sound suppressor, designed for use with 5.56x45 caliber weapon systems. Can only be installed on the SDQD mounting interface flash hiders. Modded Sand."
+        }
+    },
+    "SC_01007_VLTOR_REC": {
+        "clone": "59bfe68886f7746004266202",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/recievers/reciever_ar15_vltor_mur-1s_white.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f764186f77447ec5d7714",
+            "Price": 32679
+        },
+        "locales": {
+            "Name": "AR-15 Vltor MUR-1S 5.56x45 upper receiver (Sand)",
+            "Shortname": "VLTOR Sand",
+            "Description": "MUR-1S modular upper receiver for AR-based weapons by Vltor company. Fitted with mount for attaching additional equipment. Modded Sand."
+        },
+        "scCompatibilities": {
+            "mod_handguard": [
+                "SC_01018_AR_KAC_RIS",
+                "SC_01020_AR_KAC_URX_8",
+                "SC_01022_AR_KAC_URX_10"
+            ],
+            "mod_barrel": [
+                "SC_01025_AR_15_260_BARREL",
+                "SC_01026_AR_15_370_BARREL"
+            ],
+            "mod_scope": [
+                "SC_01036_T1M_MOUNT",
+                "SC_01042_VORTEX_RAZOR_UH1"
+            ]
+        }
+    },
+    "SC_01008_VYPR_HANDG": {
+        "clone": "5c6d5d8b2e221644fc630b39",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/handguards/handguard_ar15_stngr_vypr_m_lok_10_inch_white.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f75e486f77447ec5d7712",
+            "Price": 14500
+        },
+        "locales": {
+            "Name": "AR-15 STNGR VYPR 10 inch M-LOK handguard (Sand)",
+            "Shortname": "VYPR Sand",
+            "Description": "The VYPR handguard for AR-15 equipped with an M-LOK interface for the installation of additional devices and accessories. Features a lightweight design and increased ventilation. ManufactuWhite by STNGR. Modded Sand."
+        }
+    },
+    "SC_01009_VUDU": {
+        "clone": "5b3b99475acfc432ff4dcbee",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/scopes/scope_30mm_eotech_vudu_1_6x24_white.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f748386f774093e6cb501",
+            "Price": 44344
+        },
+        "locales": {
+            "Name": "EOTech Vudu 1-6x24 30mm riflescope (Sand)",
+            "Shortname": "VUDU Sand",
+            "Description": "The EOTech Vudu 1-6x24 riflescope, equally effective on AR platforms and bolt-action rifles. Its EOTech-style speed ring reticle is designed for fast target engagement at low power, while delivering the resolution and accuracy needed for longer range targets. Modded Sand."
+        }
+    },
+    "SC_01010_MCX_REC": {
+        "clone": "5fbcc3e4d6fa9c00c571bb58",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mcx_sand/reciever_mcx_sig_mcx_gen1.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f764186f77447ec5d7714",
+            "Price": 3509
+        },
+        "locales": {
+            "Name": "MCX GEN1 .300 BLK upper receiver (Sand)",
+            "Shortname": "MCX GEN1 Sand",
+            "Description": "An upper receiver for the first generation MCX assault rifles manufactured by SIG Sauer. Features a mount for attaching additional equipment. Modded sand."
+        },
+        "scCompatibilities": {
+            "mod_handguard": [
+                "SC_01012_MCX_12_HANDG"
+            ],
+            "mod_scope": [
+                "SC_01036_T1M_MOUNT",
+                "SC_01042_VORTEX_RAZOR_UH1"
+            ]
+        }
+    },
+    "SC_01011_MCX_STOCK": {
+        "clone": "5fbcc429900b1d5091531dd7",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mcx_sand/stock_all_sig_telescoping_stock.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f757486f774093e6cb507",
+            "Price": 4839
+        },
+        "locales": {
+            "Name": "MPX/MCX telescoping stock (Sand)",
+            "Shortname": "MPX/MCX-T Sand",
+            "Description": "A telescopic stock for MCX/MPX manufactured by SIG Sauer. Modded sand."
+        }
+    },
+    "SC_01012_MCX_12_HANDG": {
+        "clone": "5fbc227aa56d053a3543f79e",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/handguards/handguard_mcx_sig_gen1_12_inch_keymod_white.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f75e486f77447ec5d7712",
+            "Price": 10000
+        },
+        "locales": {
+            "Name": "MCX GEN1 KeyMod 12 inch handguard (Sand)",
+            "Shortname": "MCX 12 Sand",
+            "Description": "A first-gen 12 inch handguard for the MCX assault rifle, equipped with a KeyMod interface for attaching additional equipment. Manufactured by SIG Sauer. Modded Sand."
+        }
+    },
+    "SC_01013_EMOD_STOCK": {
+        "clone": "5b39f8db5acfc40016387a1b",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/stocks/stock_ar15_vltor_emod_white.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f757486f774093e6cb507",
+            "Price": 8889
+        },
+        "locales": {
+            "Name": "Vltor EMOD stock (Sand)",
+            "Shortname": "EMOD Sand",
+            "Description": "The EMOD buttstock designed for AR-15 weapon systems. Manufactured by Vltor. Modded Sand."
+        }
+    },
+    "SC_01014_AK74_DUST_COVER": {
+        "clone": "5649af094bdc2df8348b4586",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/recievers/reciever_ak74_izhmash_ak74_std_white.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f764186f77447ec5d7714",
+            "Price": 1042
+        },
+        "locales": {
+            "Name": "AK-74 dust cover 6P20 0-1 (Sand)",
+            "Shortname": "6P20 0-1 Sand",
+            "Description": "Standard AK-74 top dust cover by Izhmash. Modded Sand."
+        }
+    },
+    "SC_01015_AK_B30_HANDG": {
+        "clone": "5efaf417aeb21837e749c7f2",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/handguards/handguard_ak_zenit_b30_white.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f75e486f77447ec5d7712",
+            "Price": 18327
+        },
+        "locales": {
+            "Name": "AK Zenit B-30 handguard with B-31S upper handguard rail (Sand)",
+            "Shortname": "B30 Sand",
+            "Description": "The all-milled B-30 handguard is made of D16T aluminum alloy with a black coating, it is intended for installing on the AK assault rifle series 103, 104, 105, 74S, 74M, AKM, AKMS in the standard place of the handguard. The B-31S rail mount above the gas tube is an all-milled bracket made of D16T aluminum alloy with a black coating, mounted on the B-30 handguard. Modded Sand."
+        }
+    },
+    "SC_01016_AK_RPK_TUBE": {
+        "clone": "5beec8b20db834001961942a",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/stocks/stock_rpk16_izhmash_rpk_stock_tube_white.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f757486f774093e6cb507",
+            "Price": 2900
+        },
+        "locales": {
+            "Name": "RPK-16 buffer tube (Sand)",
+            "Shortname": "RPK-16T Sand",
+            "Description": "A standard buffer tube for RPK-16 LMG, manufactured by Izhmash. Modded Sand."
+        }
+    },
+    "SC_01017_AK_JMAC_MUZZLE": {
+        "clone": "5f633f791b231926f2329f13",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/muzzle/muzzle_ak74_jmac_rrd_4c_multi_white.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f724c86f774093f2ecf15",
+            "Price": 11800
+        },
+        "locales": {
+            "Name": "AK-74 thread type JMac Customs RRD-4C multi-caliber muzzle brake (Sand)",
+            "Shortname": "RRD-4C Sand",
+            "Description": "RRD 4C muzzle brake by JMAC is designed for installation on a modern AK-based weapon systems Can be used with 7.62, 5.45 or 5.56 ammunition. Reduces recoil and counters the barrel climb. Modded Sand."
+        }
+    },
+    "SC_01018_AR_KAC_RIS": {
+        "clone": "55d459824bdc2d892f8b4573",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/handguards/handguard_ar15_kac_ris_white.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f75e486f77447ec5d7712",
+            "Price": 4745
+        },
+        "locales": {
+            "Name": "AR-15 KAC RIS handguard (Sand)",
+            "Shortname": "KAC RIS Sand",
+            "Description": "Knight's Armament Company RIS is a standard service handguard for the M4A1 carbines, but it can be installed on most AR-15 based weapons, provided that the barrel is the right length. It comes equipped with 4 mounts for the installation of a heat shield and additional accessories. Modded Sand."
+        },
+        "scCompatibilities": {
+            "mod_handguard": [
+                "SC_01019_AR_KAC_RIS_LOWER"
+            ]
+        }
+    },
+    "SC_01019_AR_KAC_RIS_LOWER": {
+        "clone": "637f57b78d137b27f70c496a",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/handguards/handguard_ar15_kac_ris_lower_white.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f75e486f77447ec5d7712",
+            "Price": 2033
+        },
+        "locales": {
+            "Name": "AR-15 KAC RIS lower handguard (Sand)",
+            "Shortname": "KAC RIS Sand",
+            "Description": "Knight's Armament Company RIS lower handguard for the M4A1 carbine. Modded Sand."
+        }
+    },
+    "SC_01020_AR_KAC_URX_8": {
+        "clone": "5d123102d7ad1a004e475fe5",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/handguards/handguard_ar15_kac_urx_3_8_inch_white.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f75e486f77447ec5d7712",
+            "Price": 11690
+        },
+        "locales": {
+            "Name": "AR-15 KAC URX 3 8 inch handguard (Sand)",
+            "Shortname": "URX3 8 Sand",
+            "Description": "The Knight's Armament URX 3 handguard for AR-15 equipped with a unique interface for installation of additional devices and accessories. Modded Sand."
+        },
+        "scCompatibilities": {
+            "mod_handguard": [
+                "SC_01021_AR_KAC_URX_8_LOWER"
+            ]
+        }
+    },
+    "SC_01021_AR_KAC_URX_8_LOWER": {
+        "clone": "637f57d2f5ef8c33840d36c4",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/handguards/handguard_ar15_kac_urx_3_8_inch_lower_white.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f75e486f77447ec5d7712",
+            "Price": 5010
+        },
+        "locales": {
+            "Name": "AR-15 KAC URX 3 8 inch lower handguard (Sand)",
+            "Shortname": "URX3 8 Sand",
+            "Description": "The Knight's Armament URX 3 handguard for AR-15 equipped with a unique interface for installation of additional devices and accessories. Modded Sand."
+        }
+    },
+    "SC_01022_AR_KAC_URX_10": {
+        "clone": "5d122e7bd7ad1a07102d6d7f",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/handguards/handguard_ar15_kac_urx_31_10,75_inch_white.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f75e486f77447ec5d7712",
+            "Price": 13160
+        },
+        "locales": {
+            "Name": "AR-15 KAC URX 3.1 10.75 inch handguard (Sand)",
+            "Shortname": "URX3 10.75 Sand",
+            "Description": "The Knight's Armament URX 3.1 handguard for AR-15 equipped with a unique interface for installation of additional devices and accessories. Modded Sand."
+        },
+        "scCompatibilities": {
+            "mod_handguard": [
+                "SC_01023_AR_KAC_URX_10_LOWER"
+            ]
+        }
+    },
+    "SC_01023_AR_KAC_URX_10_LOWER": {
+        "clone": "637f57c532b66e7e320a6676",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/handguards/handguard_ar15_kac_urx_31_10,75_inch_lower_white.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f75e486f77447ec5d7712",
+            "Price": 5640
+        },
+        "locales": {
+            "Name": "AR-15 KAC URX 3.1 10.75 inch lower handguard (Sand)",
+            "Shortname": "URX3 10.75 Sand",
+            "Description": "The Knight's Armament URX 3.1 lower handguard for AR-15 equipped with a unique interface for installation of additional devices and accessories. Modded Sand."
+        }
+    },
+    "SC_01024_AR_JPE_GASBLOCK": {
+        "clone": "5d00ec68d7ad1a04a067e5be",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/gasblocks/gas_block_ar15_jp_jpgs5b_white.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f760586f774093e6cb509",
+            "Price": 7800
+        },
+        "locales": {
+            "Name": "AR-15 JP Enterprises Gas System-5B (Sand)",
+            "Shortname": "GS-5B Sand",
+            "Description": "Low-profile gas system, which can be installed as regular on AR-15-based weapons. Modded Sand."
+        }
+    },
+    "SC_01025_AR_15_260_BARREL": {
+        "clone": "55d35ee94bdc2d61338b4568",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/barrels/barrel_ar15_260mm_white.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f75c686f774094242f19f",
+            "Price": 19118
+        },
+        "locales": {
+            "Name": "AR-15 5.56x45 260mm barrel (Sand)",
+            "Shortname": "AR-15 260 Sand",
+            "Description": "260mm barrel for AR-15 based weapons for 5.56x45 NATO ammo. Corresponds with standard service M4 CQBR barrel. Modded Sand."
+        }
+    },
+    "SC_01026_AR_15_370_BARREL": {
+        "clone": "55d3632e4bdc2d972f8b4569",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/barrels/barrel_ar15_370mm_white.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f75c686f774094242f19f",
+            "Price": 24567
+        },
+        "locales": {
+            "Name": "AR-15 5.56x45 370mm barrel (Sand)",
+            "Shortname": "AR-15 370 Sand",
+            "Description": "370mm barrel for AR-15 based weapons for 5.56x45 NATO ammo. Corresponds with standard service M4A1 barrel. Modded Sand."
+        }
+    },
+    "SC_01027_AK_POLYMER_STOCK": {
+        "clone": "5649b0fc4bdc2d17108b4588",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/stocks/stock_ak74_izhmash_ak74_std_plastic_white.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f757486f774093e6cb507",
+            "Price": 2068
+        },
+        "locales": {
+            "Name": "AK-74 polymer stock (Sand)",
+            "Shortname": "6P20 Sb.7 Sand",
+            "Description": "Polymer AK-74 stock produced by Izhmash which replaced the wooden one. Modded Sand."
+        }
+    },
+    "SC_01028_AKM_POLYMER_STOCK": {
+        "clone": "5ac50c185acfc400163398d4",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/stocks/stock_ak74m_izhmash_ak74m_std_white.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f757486f774093e6cb507",
+            "Price": 1626
+        },
+        "locales": {
+            "Name": "AK-74M polymer stock (Sand)",
+            "Shortname": "6P34 Sb.15 Sand",
+            "Description": "Polymer stock for AK-74M manufactured by IzhMash. Modded Sand."
+        }
+    },
+    "SC_01029_AK_CRICLE_10_MAG": {
+        "clone": "5c0548ae0db834001966a3c2",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/magazines/mag_ak_arsenal_cwp_mag_556x45_30_white.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f754a86f774094242f19b",
+            "Price": 2400
+        },
+        "locales": {
+            "Name": "SLR-106/AK 5.56x45 Circle 10 30-round magazine (Sand)",
+            "Shortname": "C-10 AK Sand",
+            "Description": "30-round 5.56x45 Waffle Pattern magazine for the SLR-106 civilian AK-based rifles. Manufactured by Circle 10. Modded Sand."
+        }
+    },
+    "SC_01030_AK_TROY_GAS_HANDGUARD": {
+        "clone": "5b237e425acfc4771e1be0b6",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/gasblocks/gas_block_ak_troy_top_bottom_vent_hole_combo_white.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f760586f774093e6cb509",
+            "Price": 19239
+        },
+        "locales": {
+            "Name": "AK TROY Full Length Rail handguard & gas tube combo (Sand)",
+            "Shortname": "TROY FLR Sand",
+            "Description": "Handguard with a gas block combo. Product by TROY Industries. Modded Sand."
+        }
+    },
+    "SC_01031_ULTRA_SILENCER": {
+        "clone": "5d44064fa4b9361e4f6eb8b5",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/silencers/silencer_tbac_thunder_beast_ultra_5_762x51_white.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f731a86f774093e6cb4f9",
+            "Price": 62000
+        },
+        "locales": {
+            "Name": "Thunder Beast Arms Ultra 5 sound suppressor (Sand)",
+            "Shortname": "Ultra 5 Sand",
+            "Description": "The Ultra 5 sound suppressor is designed for use with 7.62x51 NATO rounds, but also functions as a superb multi-caliber suppressor for multiple hosts, providing excellent performance on 7.62 NATO, .300, 6.8 SPC, 6.5, and 5.56mm NATO. Can only be installed on compatible muzzle devices made by Thunder Beast Arms. Modded Sand."
+        }
+    },
+    "SC_01032_AK_DOGRAIL_DUSTCOVER": {
+        "clone": "5d2c772c48f0355d95672c25",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/recievers/reciever_ak_texas_weapon_systems_dog_leg_rail_gen_3_white.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f764186f77447ec5d7714",
+            "Price": 11600
+        },
+        "locales": {
+            "Name": "AK TWS Dog Leg Rail dust cover (Sand)",
+            "Shortname": "Dog Leg Rail Sand",
+            "Description": "TWS Dog leg rail dust cover with integrated Picatinny rail is compatible with all models of Kalashnikov automatic rifles and carbines based on AK platform. Modded Sand."
+        },
+        "mod_scope": [
+            "SC_01036_T1M_MOUNT",
+            "SC_01042_VORTEX_RAZOR_UH1"
+        ]
+    },
+    "SC_01033_MP_60_MAGAZINE": {
+        "clone": "59c1383d86f774290a37e0ca",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/magazines/mag_stanag_magpul_pmag_d-60_556x45_60_white.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f754a86f774094242f19b",
+            "Price": 15430
+        },
+        "locales": {
+            "Name": "5.56x45 Magpul PMAG D-60 STANAG 60-round magazine (Sand)",
+            "Shortname": "PMAG Sand",
+            "Description": "The Magpul PMAG D-60 polymer 60-round magazine for 5.56x45 rounds. Modded Sand."
+        }
+    },
+    "SC_01034_T1M_SIGHT": {
+        "clone": "58d399e486f77442e0016fe7",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/scopes/scope_base_aimpoint_micro_t1_white.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f744786f774094242f197",
+            "Price": 28344
+        },
+        "locales": {
+            "Name": "Aimpoint Micro T-1 reflex sight (Sand)",
+            "Shortname": "T-1 Sand",
+            "Description": "Compact Micro H-1 reflex sight by Aimpoint was designed for use with any kind of firearms and even with bows. Lightweight, compact, and durable. Modded Sand."
+        }
+    },
+    "SC_01035_T1M_SPACER": {
+        "clone": "58d39b0386f77443380bf13c",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/mounts/mount_base_aimpoint_h1_t1_spacer_white.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f755f86f77447ec5d770e",
+            "Price": 2203
+        },
+        "locales": {
+            "Name": "Aimpoint Micro Spacer High (Sand)",
+            "Shortname": "AMSH Sand",
+            "Description": "Raises height of optical axis. Modded Sand."
+        }
+    },
+    "SC_01036_T1M_MOUNT": {
+        "clone": "616554fe50224f204c1da2aa",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/mounts/mount_all_aimpoint_h2_weaver_white.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f755f86f77447ec5d770e",
+            "Price": 2550
+        },
+        "locales": {
+            "Name": "Aimpoint Micro H-2 Standard Mount (Sand)",
+            "Shortname": "H-2 Sand",
+            "Description": "Aimpoint Micro Standard Mount is a base mount for H-2 sights of the Micro series. Backwards=compatible with both T-1 and H-1 series reflex sights. Modded Sand."
+        }
+    },
+    "SC_01037_AK_PT_1": {
+        "clone": "5b222d405acfc400153af4fe",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/stocks/stock_ak_zenit_pt_1_white.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f757486f774093e6cb507",
+            "Price": 11758
+        },
+        "locales": {
+            "Name": "AK Zenit PT-1 stock (Sand)",
+            "Shortname": "PT-1 Sand",
+            "Description": "The telescopic PT-1 stock is mounted on the standard place of the stock AK 103, 104, 105, 74M, AKS74U and PP Vityaz, has a length adjustment mechanism and an adjustable cheek. A special lock is required for installation. Modded Sand."
+        }
+    },
+    "SC_01038_G36_4V_HANDGUARD": {
+        "clone": "62386b7153757417e93a4e9f",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/handguards/handguard_g36_hk_k_white.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f75e486f77447ec5d7712",
+            "Price": 4000
+        },
+        "locales": {
+            "Name": "HK G36 4-vent handguard (Sand)",
+            "Shortname": "G36 4-vent Sand",
+            "Description": "A standard polymer 4-vent handguard with a heatshield for the G36 assault rifle. Manufactured by Heckler & Koch. Modded Sand."
+        }
+    },
+    "SC_01039_G36_MAGWELL": {
+        "clone": "622f02437762f55aaa68ac85",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/mounts/mount_g36_hk_magwell_std_white.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f755f86f77447ec5d770e",
+            "Price": 1000
+        },
+        "locales": {
+            "Name": "HK G36 magwell (Sand)",
+            "Shortname": "G36 Well Sand",
+            "Description": "Magwell for the G36 assault rifle, manufactured by Heckler & Koch. Modded Sand."
+        }
+    },
+    "SC_01040_G36_C_MAGWELL": {
+        "clone": "622f039199f4ea1a4d6c9a17",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/mounts/mount_g36_hk_magwell_ar15_conversion_white.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f755f86f77447ec5d770e",
+            "Price": 2000
+        },
+        "locales": {
+            "Name": "HK G36 STANAG magwell (Sand)",
+            "Shortname": "G36 NATO Sand",
+            "Description": "A STANAG magwell for the G36 assault rifle, manufactured by Heckler & Koch. Modded Sand."
+        }
+    },
+    "SC_01041_G36_STOCK": {
+        "clone": "622f140da5958f63c67f1735",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/stocks/stock_g36_hk_buttstock_std_white.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f757486f774093e6cb507",
+            "Price": 6000
+        },
+        "locales": {
+            "Name": "HK G36 polymer stock (Sand)",
+            "Shortname": "G36 Sand",
+            "Description": "A polymer stock for the G36, manufactured by Heckler & Koch. Modded Sand."
+        }
+    },
+    "SC_01042_VORTEX_RAZOR_UH1": {
+        "clone": "59f9d81586f7744c7506ee62",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/scopes/scope_all_vortex_razor_amg_uh-1_white.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f742686f774093e6cb4ff",
+            "Price": 25857
+        },
+        "locales": {
+            "Name": "Vortex Razor AMG UH-1 holographic sight (Sand)",
+            "Shortname": "UH-1 Sand",
+            "Description": "Vortex Razor AMG UH-1 holographic sight is not only about futuristic design, but, according to its creators, is also a revolution among holographic and reflex sights. Modded Sand."
+        }
+    },
+    "SC_01043_VLTOR_REC_2": {
+        "clone": "59bfe68886f7746004266202",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/recievers/reciever_ar15_vltor_mur-1s_white_2.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f764186f77447ec5d7714",
+            "Price": 32679
+        },
+        "locales": {
+            "Name": "AR-15 Vltor MUR-1S 5.56x45 upper receiver (Sand 2)",
+            "Shortname": "VLTOR Sand 2",
+            "Description": "MUR-1S modular upper receiver for AR-based weapons by Vltor company. Fitted with mount for attaching additional equipment. Modded Sand."
+        },
+        "scCompatibilities": {
+            "mod_handguard": [
+                "SC_01018_AR_KAC_RIS",
+                "SC_01020_AR_KAC_URX_8",
+                "SC_01022_AR_KAC_URX_10"
+            ],
+            "mod_barrel": [
+                "SC_01025_AR_15_260_BARREL",
+                "SC_01026_AR_15_370_BARREL"
+            ],
+            "mod_scope": [
+                "SC_01036_T1M_MOUNT",
+                "SC_01042_VORTEX_RAZOR_UH1"
+            ]
+        }
+    },
+    "SC_0101_MCX_SAND": {
+        "clone": "5fbcc1d9016cce60e8341ab3",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mcx_sand/weapon_sig_mcx_gen1_762x35_container.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f78fc86f77409407a7f90",
+            "Price": 21300
+        },
+        "locales": {
+            "Name": "SIG MCX .300 Blackout assault rifle (Sand)",
+            "Shortname": "SIG MCX Sand",
+            "Description": "The .300 Blackout MCX line, designed and manufactured by SIG Sauer, is available in both semi-automatic and automatic versions and features a short-stroke gas piston system, which is inherited from the earlier SIG MPX submachine gun. The .300 Blackout ammo and the MCX are compatible with all AR-15 magazines. Modded sand."
+        },
+        "scCompatibilities": {
+            "mod_reciever": [
+                "SC_01010_MCX_REC"
+            ]
+        }
+    },
+    "SC_0102_M4A1_SAND": {
+        "clone": "5447a9cd4bdc2dbd208b4567",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "m4a1_sand/weapon_colt_m4a1_556x45_container.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f78fc86f77409407a7f90",
+            "Price": 18397
+        },
+        "locales": {
+            "Name": "Colt M4A1 5.56x45 assault rifle (Sand)",
+            "Shortname": "M4A1 Sand",
+            "Description": "The Colt M4A1 carbine is a fully automatic variant of the basic M4 Carbine and was primarily designed for special operations use. However, U.S. Special Operations Command (USSOCOM) was soon to adopt the M4A1 for almost all special operations units, followed later by general introduction of the M4A1 into service with the U.S. Army and Marine Corps. Modded sand."
+        }
+    },
+    "SC_0103_AK101_SAND": {
+        "clone": "5ac66cb05acfc40198510a10",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "ak100_sand/weapon_izhmash_ak101_556x45_container.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f78fc86f77409407a7f90",
+            "Price": 35663
+        },
+        "locales": {
+            "Name": "Kalashnikov AK-101 5.56x45 assault rifle (Sand)",
+            "Shortname": "AK-101 Sand",
+            "Description": "The AK-101 5.56x45mm assault rifle is a further modernized version of AK-74M base. AK-101 is equipped with a side-folding shoulder stock and a side mount for optical and night scopes. The rifle is chambered to fire 5.56x45mm NATO ammunition, and is designed entirely for export purposes. The 100-series AKs are produced by the Izhmash factories in Izhevsk, Russia. Modded sand."
+        }
+    },
+    "SC_0104_AK102_SAND": {
+        "clone": "5ac66d015acfc400180ae6e4",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "ak100_sand/weapon_izhmash_ak102_556x45_container.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f78fc86f77409407a7f90",
+            "Price": 51648
+        },
+        "locales": {
+            "Name": "Kalashnikov AK-102 5.56x45 assault rifle (Sand)",
+            "Shortname": "AK-102 Sand",
+            "Description": "Short, export version of a Kalashnikov 5.56 mm assault rifle equipped with a side-folding shoulder stock and a side mount for optical and night scopes. Modded sand."
+        }
+    },
+    "SC_0105_AK103_SAND": {
+        "clone": "5ac66d2e5acfc43b321d4b53",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "ak100_sand/weapon_izhmash_ak103_762x39_container.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f78fc86f77409407a7f90",
+            "Price": 34311
+        },
+        "locales": {
+            "Name": "Kalashnikov AK-103 7.62x39 assault rifle (Sand)",
+            "Shortname": "AK-103 Sand",
+            "Description": "Kalashnikov 7.62 mm assault rifle equipped with a side-folding shoulder stock and a side mount for optical and night scopes. Modded sand."
+        }
+    },
+    "SC_0106_AK104_SAND": {
+        "clone": "5ac66d725acfc43b321d4b60",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "ak100_sand/weapon_izhmash_ak104_762x39_container.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f78fc86f77409407a7f90",
+            "Price": 39912
+        },
+        "locales": {
+            "Name": "Kalashnikov AK-104 7.62x39 assault rifle (Sand)",
+            "Shortname": "AK-104 Sand",
+            "Description": "Short Kalashnikov 7.62 mm assault rifle equipped with a side-folding shoulder stock and a side mount for optical and night scopes. Modded sand."
+        }
+    },
+    "SC_0107_AK105_SAND": {
+        "clone": "5ac66d9b5acfc4001633997a",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "ak100_sand/weapon_izhmash_ak105_545x39_container.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f78fc86f77409407a7f90",
+            "Price": 30862
+        },
+        "locales": {
+            "Name": "Kalashnikov AK-105 5.45x39 assault rifle (Sand)",
+            "Shortname": "AK-105 Sand",
+            "Description": "Short Kalashnikov 5.45 mm modernized assault rifle equipped with a side-folding shoulder stock and a side mount for optical and night scopes. Modded sand."
+        }
+    },
+    "SC_0108_HK416_SAND": {
+        "clone": "5bb2475ed4351e00853264e3",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "hk416_sand/weapon_hk_416a5_556x45_container.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f78fc86f77409407a7f90",
+            "Price": 21800
+        },
+        "locales": {
+            "Name": "HK 416A5 5.56x45 assault rifle (Sand)",
+            "Shortname": "HK416 Sand",
+            "Description": "The HK416 A5 is a further development of the HK416 assault rifle in 5.56x45mm NATO caliber. The most striking changes compared to its previous versions as well as to market available AR platforms include an improved and tool-less gas regulator for suppressor use, a redesigned, user-friendly lower receiver, which allows complete ambidextrous operation of the weapon and ensures optimised magazine compatibility. Additionally, numerous technical improvements to maximize the safety of the operator, weapon reliability, ammunition compatibility, and durability under real operating conditions. Modded sand."
+        }
+    },
+    "SC_0109_G36_SAND": {
+        "clone": "623063e994fc3f7b302a9696",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "g36_sand/weapon_hk_g36_556x45_container.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f78fc86f77409407a7f90",
+            "Price": 13000
+        },
+        "locales": {
+            "Name": "HK G36 5.56x45 assault rifle (Sand)",
+            "Shortname": "G36 Sand",
+            "Description": "G36 is a 5.56x45mm assault rifle designed in the early 1990s by German company Heckler & Koch as a replacement for the heavier 7.62x51mm G3 battle rifle. It was accepted into service with the Bundeswehr in 1997, replacing the G3. Since then, it has also been a popular export, and the G36 has seen active service in military and police units in several countries, including Germany, Spain, and the United Kingdom. Modded sand."
+        }
+    },
+    "SC_01010_M4A1_SAND_2": {
+        "clone": "5447a9cd4bdc2dbd208b4567",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "m4a1_sand_2/weapon_colt_m4a1_556x45_container.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f78fc86f77409407a7f90",
+            "Price": 18397
+        },
+        "locales": {
+            "Name": "Colt M4A1 5.56x45 assault rifle (Sand 2)",
+            "Shortname": "M4A1 Sand 2",
+            "Description": "The Colt M4A1 carbine is a fully automatic variant of the basic M4 Carbine and was primarily designed for special operations use. However, U.S. Special Operations Command (USSOCOM) was soon to adopt the M4A1 for almost all special operations units, followed later by general introduction of the M4A1 into service with the U.S. Army and Marine Corps. Modded sand."
+        }
+    }
+}
