@@ -1,10 +1,10 @@
 {
     "name": "SandCore",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "main": "src/mod.js",
     "license": "University of Illinois/NCSA Open Source License",
     "author": "MoxoPixel",
-    "sptVersion": "3.9.X",
+    "sptVersion": "3.10.X",
     "isBundleMod": true,
     "scripts": {
         "setup": "npm i",

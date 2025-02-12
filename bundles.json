@@ -56,7 +56,6 @@
                "assets/content/textures/holemanager/round_spec_mask.bundle",
                "assets/systems/effects/opticsight/opticsightsmasks.bundle",
                "cubemaps",
-               "packages/com.unity.postprocessing/postprocessing/postprocessresources.bundle",
                "shaders"
             ]
          },
